@@ -1,0 +1,5 @@
+.vscode
+emqx
+project/.env
+package-lock.json
+node_modules
